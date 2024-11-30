@@ -1,0 +1,4 @@
+<?php
+// Redirect ke dashboard.php
+header("Location: login.php");
+exit;
